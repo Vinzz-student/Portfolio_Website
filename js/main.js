@@ -257,7 +257,7 @@ function initializeProjectFilter() {
             tags: ["HTML 5", "CSS", "Java Script"],
             category: "web",
             demoLink: "#",
-            codeLink: "#"
+            codeLink: "https://github.com/Vinzz-student/Portfolio_Website"
         },
         {
             id: 2,
@@ -415,3 +415,4 @@ document.getElementById("contactForm").addEventListener("submit", function(e) {
         console.log(error);
     });
 });
+
