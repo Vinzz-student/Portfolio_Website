@@ -14,17 +14,14 @@ const Projects = () => {
       id: 1,
       title: "Portfolio Website",
       description:
-        "A full-featured e-commerce platform with real-time inventory, payment processing, and admin dashboard.",
+        "Website portofolio pribadi yang menampilkan profil, proyek, dan keahlian kamu sebagai developer/desainer.",
       longDescription:
-        "Built with React, Node.js, and MongoDB, this platform includes features like user authentication, product management, shopping cart, order tracking, and payment integration with Stripe. The admin dashboard provides analytics and inventory management tools.",
-      image: "https://via.placeholder.com/600x400",
+        "Portfolio Website ini adalah situs pribadi yang dirancang untuk memperlihatkan siapa kamu sebagai kreator, mulai dari bio, skill, sampai proyek-proyek terbaik yang pernah kamu buat. Dengan tampilan yang bersih dan navigasi mudah, pengunjung bisa melihat pengalaman kamu secara profesional, sehingga cocok dipakai untuk memperkenalkan diri ke klien, perekrut, atau komunitas developer. Ini jadi cara yang efektif dan rapi untuk menunjukkan karya serta kemampuan kamu secara online.",
+      image: "./images/project1.png",
       technologies: [
         "React",
-        "Node.js",
-        "MongoDB",
-        "Express",
-        "Stripe",
-        "Redux",
+        "Vite",
+        "TailwindCSS",
       ],
       github: "https://github.com/Vinzz-student/Portfolio_Website",
       live: "https://vinzz-student.github.io/Portfolio_Website/",
@@ -39,8 +36,6 @@ const Projects = () => {
         "Font Pairing Recommender adalah tool web interaktif yang dibuat untuk membantu desainer dan pengembang memilih kombinasi font yang harmonis dan estetis dengan cepat dan mudah. Dengan antarmuka yang responsif, pengguna dapat mencoba berbagai pasangan font Google secara instan, melihat bagaimana heading dan body text berpadu, serta menyesuaikan ukuran atau gaya huruf sesuai kebutuhan desain. Tool ini sangat berguna untuk meningkatkan keterbacaan dan tampilan visual konten web, serta memudahkan pemilihan tipografi yang cocok tanpa harus mencoba satu-satu secara manual. Ideal untuk proyek UI/UX, branding, blog, portofolio, atau aplikasi apa pun yang butuh tipografi yang kuat dan profesional.",
       image: "./images/project2.png",
       technologies: [
-        "HTML",
-        "CSS",
         "Java Script",
         "Tailwind CSS",
         "React",
