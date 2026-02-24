@@ -62,7 +62,7 @@ const Hero = () => {
           {/* IMAGE CONTAINER */}
           <div className="relative w-full h-full overflow-hidden blob-shape">
             <img
-              src="/images/profile.jpeg"
+              src="./images/profile.jpeg"
               alt="Profile"
               className="w-full h-full object-cover"
             />

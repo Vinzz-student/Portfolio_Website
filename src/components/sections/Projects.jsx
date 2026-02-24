@@ -26,8 +26,8 @@ const Projects = () => {
         "Stripe",
         "Redux",
       ],
-      github: "https://github.com",
-      live: "https://example.com",
+      github: "https://github.com/Vinzz-student/Portfolio_Website",
+      live: "https://vinzz-student.github.io/Portfolio_Website/",
       featured: true,
     },
     {
@@ -37,7 +37,7 @@ const Projects = () => {
         "Alat web interaktif yang membantu anda menemukan kombinasi font yang cocok untuk desain tipografi secara real-time. Cocok buat desainer UI/UX, developer web, atau siapa pun yang ingin menyempurnakan tampilan teks pada website atau proyek visual.",
       longDescription:
         "Font Pairing Recommender adalah tool web interaktif yang dibuat untuk membantu desainer dan pengembang memilih kombinasi font yang harmonis dan estetis dengan cepat dan mudah. Dengan antarmuka yang responsif, pengguna dapat mencoba berbagai pasangan font Google secara instan, melihat bagaimana heading dan body text berpadu, serta menyesuaikan ukuran atau gaya huruf sesuai kebutuhan desain. Tool ini sangat berguna untuk meningkatkan keterbacaan dan tampilan visual konten web, serta memudahkan pemilihan tipografi yang cocok tanpa harus mencoba satu-satu secara manual. Ideal untuk proyek UI/UX, branding, blog, portofolio, atau aplikasi apa pun yang butuh tipografi yang kuat dan profesional.",
-      image: "/images/project2.png",
+      image: "./images/project2.png",
       technologies: [
         "HTML",
         "CSS",
@@ -57,7 +57,7 @@ const Projects = () => {
         "Web tool yang menganalisis dan memvisualisasikan kekuatan password secara real-time saat kamu mengetik, memberi umpan balik langsung untuk bantu meningkatkan keamanan password.",
       longDescription:
         "Password Strength Visualizer adalah aplikasi web yang memvisualisasikan seberapa kuat atau lemahnya sebuah password ketika pengguna mengetik. Tool ini bekerja secara real-time untuk memberikan umpan balik langsung tentang level keamanan password, termasuk indikasi apakah password mudah ditebak atau sulit dipecahkan. Dengan visualisasi yang intuitif, pengguna dapat mengetahui skor kekuatan password, serta mendapatkan ide untuk membuat password yang lebih aman — misalnya dengan menambah karakter panjang, kombinasi huruf besar kecil, angka, dan simbol. Ini sangat bermanfaat untuk edukasi keamanan digital pribadi, terutama untuk orang yang ingin menjaga akun online tetap terlindungi.",
-      image: "/images/project3.png",
+      image: "./images/project3.png",
       technologies: ["Tailwind CSS", "React", "Vite", "Framer Motion"],
       github: "https://github.com/Vinzz-student/Password-Strength-Visualizer",
       live: "https://vinzz-student.github.io/Password-Strength-Visualizer/",
@@ -70,7 +70,7 @@ const Projects = () => {
         "Alat web untuk mengatur daftar tugas harian dengan mudah. Buat, tandai selesai, dan hapus tugas supaya produktivitas tetap terjaga.",
       longDescription:
         "Personal Task Manager adalah aplikasi web sederhana dan intuitif yang dirancang untuk membantu anda mengelola tugas harian secara efisien. Dengan antarmuka yang bersih dan mudah digunakan, pengguna bisa membuat daftar tugas, menandai tugas yang sudah selesai, dan menghapus tugas yang tidak lagi diperlukan. Aplikasi ini cocok untuk siapa saja yang ingin meningkatkan produktivitas, mengatur prioritas pekerjaan, atau sekadar mencatat ide dan to-do list sehari-hari. Tanpa perlu install, kamu bisa langsung mengakses lewat browser dan mulai mengatur aktivitasmu dengan lebih terstruktur dan terorganisir.",
-      image: "/images/project4.png",
+      image: "./images/project4.png",
       technologies: ["React", "ESLint", "Tailwind CSS", "Vite"],
       github: "https://github.com/Vinzz-student/Personal-Task-manager",
       live: "https://vinzz-student.github.io/Personal-Task-manager/",
@@ -83,7 +83,7 @@ const Projects = () => {
         "Aplikasi web interaktif yang membantu developer memilih tech stack yang paling sesuai untuk proyek mereka berdasarkan kebutuhan dan preferensi.",
       longDescription:
         "Tech Stack Decider adalah aplikasi web yang membantu developer menentukan kombinasi teknologi yang tepat berdasarkan jenis proyek dan kebutuhan yang dipilih. Dengan pendekatan interaktif, tool ini memberikan rekomendasi stack secara praktis dan mudah dipahami, sehingga proses pengambilan keputusan jadi lebih cepat, terarah, dan tidak membingungkan — terutama untuk developer pemula..",
-      image: "/images/project5.png",
+      image: "./images/project5.png",
       technologies: ["Java Script", "React", "Vite", "TailwindCSS", "ESLint", "Lucide-React"],
       github: "https://github.com/Vinzz-student/Tech-Stack-Decider",
       live: "https://vinzz-student.github.io/Tech-Stack-Decider/",
@@ -96,7 +96,7 @@ const Projects = () => {
         "Web tool yang membantu menemukan rekomendasi ekstensi Visual Studio Code sesuai kebutuhan pengembangan.",
       longDescription:
         "VSCode Extension Recommender adalah aplikasi web yang memudahkan developer menemukan ekstensi terbaik untuk Visual Studio Code berdasarkan kebutuhan seperti bahasa pemrograman, fitur coding, atau peningkatan produktivitas. Dengan tampilan sederhana dan rekomendasi yang terstruktur, pengguna tidak perlu mencari ekstensi satu per satu secara manual, sehingga bisa langsung meningkatkan workflow dan kenyamanan saat coding.",
-      image: "/images/project6.png",
+      image: "./images/project6.png",
       technologies: ["React", "ESLint", "Axios", "TailwindCSS", "Vite"],
       github: "https://github.com/Vinzz-student/VSCode-Extension-Recommender",
       live: "https://vinzz-student.github.io/VSCode-Extension-Recommender/",
