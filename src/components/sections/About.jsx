@@ -58,7 +58,7 @@ const About = () => {
           >
             <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="../../images/about.png"
+                src="./images/about.png"
                 alt="About me"
                 className="w-full h-auto"
               />

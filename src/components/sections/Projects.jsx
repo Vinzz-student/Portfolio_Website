@@ -14,7 +14,7 @@ const Projects = () => {
       id: 1,
       title: "Portfolio Website",
       description:
-        "Website portofolio pribadi yang menampilkan profil, proyek, dan keahlian kamu sebagai developer/desainer.",
+        "Website portofolio pribadi yang menampilkan profil, skill, dan berbagai proyek web yang telah dikembangkan sebagai bagian dari perjalanan belajar dan pengembangan diri di bidang teknologi.",
       longDescription:
         "Portfolio Website ini adalah situs pribadi yang dirancang untuk memperlihatkan siapa kamu sebagai kreator, mulai dari bio, skill, sampai proyek-proyek terbaik yang pernah kamu buat. Dengan tampilan yang bersih dan navigasi mudah, pengunjung bisa melihat pengalaman kamu secara profesional, sehingga cocok dipakai untuk memperkenalkan diri ke klien, perekrut, atau komunitas developer. Ini jadi cara yang efektif dan rapi untuk menunjukkan karya serta kemampuan kamu secara online.",
       image: "./images/project1.png",
